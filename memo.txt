@@ -1,0 +1,3 @@
+site: _config.yaml
+page: _pages
+content: _asset
