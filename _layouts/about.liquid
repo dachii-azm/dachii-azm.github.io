@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- News -->
+    {% if page.presentations %}
+      <h2>
+        <a href="{{ '/achievements/' | relative_url }}" style="color: inherit">achievements</a>
+      </h2>
+      {% include presentations.liquid limit=true %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

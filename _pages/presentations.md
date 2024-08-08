@@ -1,7 +1,7 @@
 ---
 layout: page
-title: presentations
-permalink: /presentations/
+title: achievements
+permalink: /achievements/
 nav: true
 ---
 
