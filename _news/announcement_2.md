@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted to IROS2024.
+Two papers are accepted to [IROS2024](https://iros2024-abudhabi.org/).
 - Answerability Fields: Answerable Location Estimation via Diffusion Models
 - Map-based Modular Approach for Zero-shot Embodied Question Answering
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As a working doctoral student, I will enter [Matsuo Lab at the University of Tokyo](https://weblab.t.u-tokyo.ac.jp/) next April.
+As a working doctoral student, I will be enrolled [Matsuo Lab at the University of Tokyo](https://weblab.t.u-tokyo.ac.jp/) from April 2025.
