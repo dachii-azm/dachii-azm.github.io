@@ -2,7 +2,7 @@
 layout: post
 title: 
 date: 2024-07-01 16:11:00-0400
-inline: True
+inline: true
 related_posts: false
 ---
 
