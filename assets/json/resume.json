@@ -56,6 +56,15 @@
       "courses": ["Adjunct unit: ATR"],
       "lab": "Integrated Systems Biology Laboratory (Ishii Lab)",
       "laburl": "https://ishiilab.jp/en/"
+    },
+    {
+      "institution": "The University of Tokyo",
+      "location": "Tokyo, Japan",
+      "area": "Robotics",
+      "studyType": "PhD student",
+      "startDate": "2025-04-01",
+      "lab": "Matsuo-Iwasawa Lab",
+      "laburl": "https://weblab.t.u-tokyo.ac.jp"
     }
   ],
   "awards": [
