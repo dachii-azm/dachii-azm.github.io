@@ -6,6 +6,8 @@ related_posts: false
 ---
 
 ## **Academic Services**
-- IROS2024 Reviewer
+- IROS Reviewer
 - ACL ARR Reviewer
 - ICCV Reviewer
+- TVCG Reviewer
+- TPAMI Reviewer
