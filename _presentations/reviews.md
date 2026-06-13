@@ -9,5 +9,6 @@ related_posts: false
 - IROS Reviewer
 - ACL ARR Reviewer
 - ICCV Reviewer
+- ECCV Reviewer
 - TVCG Reviewer
 - TPAMI Reviewer
