@@ -7,8 +7,9 @@ related_posts: false
 
 ## **Academic Services**
 - IROS Reviewer
-- ACL ARR Reviewer
+- CoRL Reviewer
 - ICCV Reviewer
 - ECCV Reviewer
 - TVCG Reviewer
 - TPAMI Reviewer
+- ACL ARR Reviewer
