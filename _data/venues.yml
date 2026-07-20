@@ -21,3 +21,7 @@
 "ICCV2025": 
   url: https://iccv.thecvf.com/Conferences/2025
   color: "#1e90ff"
+
+"ECCV2026":
+  url: https://eccv.ecva.net/
+  color: "#7fffd4"
