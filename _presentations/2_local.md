@@ -6,6 +6,8 @@ related_posts: false
 ---
 
 ## **Local Conference**
+- E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes, 
+第29回 画像の認識・理解シンポジウム（MIRU2026）,長崎, 2026.8, 坂本滉也, 宮西大樹, 東大地, 栗田修平, 森國秀, 千葉直也, 川鍋一晃, 岩澤有祐, 松尾豊
 - CityNav: 都市の地理情報と言語指示に基づく空中ナビゲーションデータセット,
 第28回 画像の認識・理解シンポジウム（MIRU2025）,京都, 2025.8,
 Lee Jungdae, 宮西大樹, 栗田修平, 坂本滉也, 東大地, 松尾豊, 井上中順

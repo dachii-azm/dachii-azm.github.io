@@ -6,6 +6,7 @@ related_posts: false
 ---
 
 ## **International Conference**
+- Koya Sakamoto, Taiki Miyanishi, Daichi Azuma, Shuhei Kurita, Shu Morikuni, Naoya Chiba, Motoaki Kawanabe, Yusuke Iwasawa and Yutaka Matsuo, "E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes", European Conference on Computer Vision (ECCV 2026), 2026.
 - Shunsuke Yasuki, Taiki Miyanishi, Nakamasa Inoue, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Masato Taki and Yutaka Matsuo, "GeoProg3D: Compositional Visual Reasoning for City-Scale 3D Language Fields", IEEE/CVF International Conference on Computer Vision (ICCV2025), 2025.
 - Jungdae Lee, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto, Daichi Azuma, Yutaka Matsuo and Nakamasa Inoue, "CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information", IEEE/CVF International Conference on Computer Vision (ICCV2025), 2025.
 - Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Koya Sakamoto and Motoaki Kawanabe, “Answerability Fields: Answerable Location Estimation via Diffusion Models”, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024.
